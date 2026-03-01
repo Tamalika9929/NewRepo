@@ -19,6 +19,10 @@ public class Practice {
 		System.out.println("m1 method ");
 	}
 	
-	
+	@Test
+	public void m2() {
+		
+		System.out.println("m2 method ");
+	}
 	
 }
